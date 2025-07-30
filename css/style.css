@@ -3429,6 +3429,7 @@ body.visible-sidebar {
   -ms-transition: all 500ms ease;
   -o-transition: all 500ms ease;
   transition: all 500ms ease;
+  aspect-ratio: 1;
 }
 
 .ig-post-section .ig-post-block .ig-post-image:hover img {
